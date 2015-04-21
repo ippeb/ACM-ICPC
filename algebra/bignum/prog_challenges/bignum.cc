@@ -1,10 +1,10 @@
 /* 
-   High-Precision Arithmetic implemented with Arrays of Digits.
+  High-Precision Arithmetic implemented with Arrays of Digits.
 
-   Adapted from the book "Programming Challenges" by Steven S. Skiena and 
-   Miguel A. Revilla, 2003, Springer.
+  Adapted from the book "Programming Challenges" by Steven S. Skiena and 
+  Miguel A. Revilla, 2003, Springer.
 
-   (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+  (c) 2015 Josef Ziegler (ippeb24@gmail.com)
 
 */
 
