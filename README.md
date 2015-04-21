@@ -1,8 +1,7 @@
-
-Algorithms and Data Structures for Algorithmic Programming Competitions
+ACM-ICPC 
 ===============
 
-List of algorithms and data structures for algorithmic programming competitions (International Olympiad in Informatics (IOI),  ACM International Collegiate Programming Competition (ICPC), Google Codejam, Facebook Hacker Cup, etc.).
+List of algorithms and data structures for algorithmic programming competitions (International Olympiad in Informatics (IOI),  ACM International Collegiate Programming Competition (ICPC), Google Code Jam, Facebook Hacker Cup, etc.).
 
 In the past, this list has been quite useful for solving algorithmic programming challenges on online judges like the Sphere Online Judge (SPOJ) and competitions.
 
@@ -10,7 +9,7 @@ Most of this has been coded during high-school (2008-2010) while preparing for t
 
 The code is licensed under the MIT License, free to use, have fun!
 
-## Discrete Mathematics
+### Discrete Mathematics
 
 * **Bignum** (addition, subtraction, multiplication, division)
 * **Prime Factorization** *O(sqrt(n))*
@@ -19,13 +18,13 @@ The code is licensed under the MIT License, free to use, have fun!
 * **LCD** (Lowest Common Multiple)
 * **Linear Congruence** (Extended GCD)
 
-## Combinatorics
+### Combinatorics
 
 * **All Permutations**
 * **All Subsets**
 * **Next Permutation** (alphabetically higher) 
 
-## Graph Theory
+### Graph Theory
 
 * **DFS** (Depth-First Search)
 * **BFS** (Breadth-First Search)
@@ -44,7 +43,7 @@ The code is licensed under the MIT License, free to use, have fun!
 * **Edmonds-Karp's Algorithm** (Maxflow/Mincut)
 * **Hierholzer's Algorithm** (Euler Cycle detection)
 
-## Computational Geometry
+### Computational Geometry
 
 * **Line-Line Intersection**
 * **Segment-Segment Intersection**
@@ -60,7 +59,7 @@ The code is licensed under the MIT License, free to use, have fun!
 * **Shamos-Hoey Algorithm** (checking if there is an intersection given multiple line segments)
 * **Crossing Number** (resp. Winding Number, method to check whether a point is inside a simple polygon (resp. non-simple polygon))
 
-## Data Structures
+### Data Structures
 
 * **Queue**
 * **Stack**
@@ -79,7 +78,7 @@ The code is licensed under the MIT License, free to use, have fun!
 * **Suffix Tree**
 * **Disjoint-Set Data Structure** (Union-Find)
 
-## Dynamic Programming
+### Dynamic Programming
 
 A selection of solutions to fairly standard DP problems.
 
@@ -91,12 +90,12 @@ A selection of solutions to fairly standard DP problems.
 * **Stable Marriage Problem**
 * **Binomial Coefficient Solver**
 
-## String Manipulation
+### String Manipulation
 
 * **String Handling** (in general)
 * **Knuth Morris Pratt** (String Search)
 
-## Misc
+### Misc
 
 * **Majority Vote**
 * **Inclusion/Exclusion** (using bit tricks)
