@@ -9,7 +9,7 @@ Most of this has been coded during high-school (2008-2010) while preparing for t
 
 The code is licensed under the MIT License, free to use, have fun!
 
-### Discrete Mathematics
+### Algebra
 
 * **Bignum** (addition, subtraction, multiplication, division)
 * **Prime Factorization** *O(sqrt(n))*
