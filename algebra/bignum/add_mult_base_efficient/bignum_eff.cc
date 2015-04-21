@@ -1,6 +1,6 @@
 /*
   Bignums efficient.
-
+  
   * base conversion (base 10^BASE10)
   * bignum multiplication
   * bignum addition
@@ -11,6 +11,7 @@
   (c) 2015 Josef Ziegler (ippeb24@gmail.com)
 
 */
+
 #include <vector>
 #include <list>
 #include <map>
