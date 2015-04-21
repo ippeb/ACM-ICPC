@@ -13,7 +13,7 @@ The code is licensed under the MIT License, free to use, have fun!
 
 * **Bignum** (addition, subtraction, multiplication, division)
 * **Prime Factorization** *O(sqrt(n))*
-* **Sieve of Eratosthenes**
+* **Prime Number Generator** (Sieve of Eratosthenes)
 * **GCD** (Greatest Common Divisor)
 * **LCD** (Lowest Common Multiple)
 * **Linear Congruence** (Extended GCD)
