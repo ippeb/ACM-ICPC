@@ -8,7 +8,7 @@
    checking divisibility for these primes. 
    Another optimization would be to use Euler's theorem (power modulo).
 
-  (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+  (c) 2015 Josef Ziegler
 
 */
 

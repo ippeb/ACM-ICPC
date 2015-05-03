@@ -8,7 +8,7 @@
   permutation, i.e. the given integer sequence is sorted in decreasing order
   (also known as snail sort).
 
-  (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+  (c) 2015 Josef Ziegler
 
 */
 

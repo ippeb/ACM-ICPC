@@ -8,7 +8,7 @@
   * bignum comparison
   * bignum square root (using binary search)
 
-  (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+  (c) 2015 Josef Ziegler
 
 */
 

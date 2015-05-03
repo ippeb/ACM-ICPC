@@ -5,7 +5,7 @@
    Note that repetitions occur if there are letters in the input string 
    that appear more than once.
 
-   (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+   (c) 2015 Josef Ziegler
 
 */
 

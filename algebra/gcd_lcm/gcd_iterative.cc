@@ -1,7 +1,7 @@
 /* 
    Greatest Common Divisor (iterative).
    
-   (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+   (c) 2015 Josef Ziegler
 
 */
 

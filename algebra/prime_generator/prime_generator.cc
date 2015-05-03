@@ -11,7 +11,7 @@
   * using char instead bool array saving 256 values
   * using modular arithmetic
 
-  (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+  (c) 2015 Josef Ziegler
 
 */
 

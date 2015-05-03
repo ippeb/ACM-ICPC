@@ -4,7 +4,7 @@
   Computes gcd(p, q) and x, y such that p * x + q * y = gcd(p, q),
   x, y, p, q are integers.
 
-  (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+  (c) 2015 Josef Ziegler
 
 */
 
