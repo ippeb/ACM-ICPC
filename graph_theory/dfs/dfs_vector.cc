@@ -1,4 +1,9 @@
-/* Graph Traversal: Depth-First Search */
+/*
+  Depth-First Search, Graph Traversal (using STL vectors)
+
+  (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+
+*/
 
 #include <cstdio>
 #include <string>
