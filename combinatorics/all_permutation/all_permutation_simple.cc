@@ -1,6 +1,14 @@
-// Generates all permuted strings of the given input string.
-// Note, that repetitions occur if there are letters in the input string 
-// that appear more than once.
+/* 
+   All permutation (short).
+
+   Constructs all permutations of a given input string via backtracking.
+   Note that repetitions occur if there are letters in the input string 
+   that appear more than once.
+
+   (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+
+*/
+
 #include <iostream>
 #include <cstring>
 using namespace std;
