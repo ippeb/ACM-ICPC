@@ -1,5 +1,5 @@
 /* 
-   Prim's Algorithm (Minimum Spanning Tree) O(n^2) 
+   Prim's Algorithm (Minimum Spanning Tree) O(n^2).
 
    (c) 2015 Josef Ziegler
 

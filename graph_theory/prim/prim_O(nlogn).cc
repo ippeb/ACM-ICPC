@@ -1,5 +1,5 @@
 /* 
-   Prim's Algorithm (Minimum Spanning Tree) O(n log n)
+   Prim's Algorithm (Minimum Spanning Tree) O(n log n).
 
    (c) 2015 Josef Ziegler
 
