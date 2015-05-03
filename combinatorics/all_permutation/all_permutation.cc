@@ -1,4 +1,11 @@
-/* constructing all permutations using backtracking */
+/* 
+   All permutation.
+
+   Constructs all permutations of 1, 2, ..., n via backtracking.
+
+   (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+
+*/
 
 #include <cstdio>
 #include <string>
