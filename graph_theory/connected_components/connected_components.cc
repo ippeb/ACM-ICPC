@@ -4,7 +4,7 @@
 
    Finds cycles and counts connected components in an undirected graph via dfs.
 
-   (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+   (c) 2015 Josef Ziegler
 
 */
 

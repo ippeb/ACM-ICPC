@@ -1,7 +1,7 @@
 /*
   Depth-First Search, Graph Traversal.
 
-  (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+  (c) 2015 Josef Ziegler
 
 */
 
