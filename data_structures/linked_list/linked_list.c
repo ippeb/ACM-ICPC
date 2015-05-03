@@ -1,5 +1,5 @@
 /*
-  Linked List implementanion
+  Singly Linked List.
 
   This code was not written by me, could not find the original sources.
 
