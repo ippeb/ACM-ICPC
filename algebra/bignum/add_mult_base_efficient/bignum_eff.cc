@@ -1,5 +1,4 @@
-/* Copyright 2015 Josef Ziegler
-
+/*
   Bignums efficient.
   
   * base conversion (base 10^BASE10)
@@ -8,10 +7,14 @@
   * bignum subtraction (for positive results)
   * bignum comparison
   * bignum square root (using binary search)
+
+  (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+
 */
 
 #include <vector>
 #include <list>
+#include <map>
 #include <set>
 #include <deque>
 #include <queue>
@@ -31,19 +34,20 @@
 #include <cstring>
 #include <ctime>
 #include <cassert>
+#include <complex>
 #define MP              make_pair
 #define CMNT            0
-// your base: 10^BASE10; in order to use multiplication the square of your
+// your base: 10^BASE10; in order to use multiplication the square of your 
 // chosen base must fit in a long long; maximum: 18
-#define BASE10 9
-// in base 10^BASE10, effective number of digits: BASE10*DIGITS
-#define DIGITS 12
+#define BASE10 9 
+// in base 10^BASE10, effective number of digits: BASE10*DIGITS 
+#define DIGITS 12 
 using namespace std;
 
-typedef unsigned            uint;
-typedef long long int      llint;
-typedef pair<int, int>       PII;
-typedef pair<double, double> PDD;
+typedef unsigned           uint;
+typedef long long int     llint;
+typedef pair<int,int>       PII;
+typedef pair<double,double> PDD;
 
 struct bignum{
   llint N[DIGITS]; // in base 10^BASE10
