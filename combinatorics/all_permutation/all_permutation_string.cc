@@ -1,5 +1,5 @@
 /* 
-   All permutation (short).
+   All permutation (string).
 
    Constructs all permutations of a given input string via backtracking.
    Note that repetitions occur if there are letters in the input string 
