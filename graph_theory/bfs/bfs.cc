@@ -1,4 +1,9 @@
-/* Graph Traversal: Breadth First Search */
+/* 
+   Breadth First Search, Graph Traversal.
+
+  (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+
+*/
 
 #include <string>
 #include <cstdio>
