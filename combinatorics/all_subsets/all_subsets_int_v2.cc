@@ -1,10 +1,18 @@
-// Generates all subsets of a given length.
+/*
+  All subsets (int) (version 2).
+
+  Constructing all subsets of 1, 2, ..., n via backtracking.
+
+  (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+
+*/
+
 #include <iostream>
 #include <cstring>
 using namespace std;
 
 void all_subsets(string& S, int l) {
-  if (l == -1) {
+  if (l == 0) {
     cout << S << endl;
     return;
   }
@@ -19,6 +27,6 @@ int main() {
   int l;
   cin >> l;
   string tmp("");
-  tmp.resize(l);
+  tmp.resize(l+1);
   all_subsets(tmp, l);
 }

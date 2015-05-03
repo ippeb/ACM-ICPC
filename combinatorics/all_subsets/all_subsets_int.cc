@@ -1,4 +1,14 @@
-/* constructing all subsets using backtracking */
+/*
+  All subsets (int).
+
+  Constructing all subsets of 1, 2, ..., n via backtracking.
+  This file was meant to be extensible.
+  Adapted parts from the book "Programming Challenges" by Steven S. Skiena 
+  and Miguel A. Revilla, 2003, Springer.
+  
+  (c) 2015 Josef Ziegler (ippeb24@gmail.com)
+  
+*/
 
 #include <cstdio>
 #define MAXCANDIDATES 10000
