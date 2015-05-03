@@ -1,5 +1,5 @@
 /*
-  All subsets (int).
+  All subset (int).
 
   Constructing all subsets of 1, 2, ..., n via backtracking.
   This file was meant to be extensible.

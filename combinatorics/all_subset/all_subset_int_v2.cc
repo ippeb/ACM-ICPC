@@ -1,5 +1,5 @@
 /*
-  All subsets (int) (version 2).
+  All subset (int) (version 2).
 
   Constructing all subsets of 1, 2, ..., n via backtracking.
 
