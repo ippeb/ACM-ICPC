@@ -2,7 +2,7 @@
    All permutation (int).
 
    Constructs all permutations of 1, 2, ..., n via backtracking.
-   This program was meant to be kept extensible.
+   This file was meant to be extensible.
    Adapted parts from the book "Programming Challenges" by Steven S. Skiena 
    and Miguel A. Revilla, 2003, Springer.
 
