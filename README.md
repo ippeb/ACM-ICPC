@@ -9,9 +9,7 @@ Most of this has been coded during high-school (2008-2010) while preparing for t
 
 The code is licensed under the MIT License, free to use, have fun!
 
-Algebra
---------------------------
-
+### Algebra
 
 **Bignum** 
 (addition, subtraction, multiplication, division)
@@ -28,8 +26,7 @@ Algebra
 **Linear Congruence** (Extended GCD)
 
 
-Combinatorics
---------------------------
+### Combinatorics
 
 **All Permutations**
 
@@ -38,8 +35,7 @@ Combinatorics
 **Next Permutation** (alphabetically higher) 
 
 
-Graph Theory
---------------------------
+### Graph Theory
 
 **DFS** (Depth-First Search)
 
@@ -73,8 +69,7 @@ Graph Theory
 **Hierholzer's Algorithm** (Euler Cycle detection)
 
 
-Computational Geometry
---------------------------
+### Computational Geometry
 
 **Line-Line Intersection**
 
@@ -103,8 +98,7 @@ Computational Geometry
 **Crossing Number** (resp. Winding Number, method to check whether a point is inside a simple polygon (resp. non-simple polygon))
 
 
-Data Structures
---------------------------
+### Data Structures
 
 **Queue**
 
@@ -139,8 +133,7 @@ Data Structures
 **Disjoint-Set Data Structure** (Union-Find)
 
 
-Dynamic Programming
---------------------------
+### Dynamic Programming
 
 A selection of solutions to fairly standard DP problems.
 
@@ -159,16 +152,14 @@ A selection of solutions to fairly standard DP problems.
 **Binomial Coefficient Solver**
 
 
-String Manipulation
---------------------------
+### String Manipulation
 
 **String Handling** (in general)
 
 **Knuth Morris Pratt** (String Search)
 
 
-Misc
---------------------------
+### Misc
 
 **Majority Vote**
 
