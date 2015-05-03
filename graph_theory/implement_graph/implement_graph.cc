@@ -1,5 +1,5 @@
 /*
-  Useful operations for implementing a graph.
+  Useful operations for building a graph.
 
   (c) 2015 Josef Ziegler
 
