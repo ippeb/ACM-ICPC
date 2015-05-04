@@ -1,5 +1,5 @@
 /* 
-   Longest (strictly) Increasing Subsequence O(n^2).
+   Longest (strictly) Increasing Subsequence (LIS), O(n^2).
 
    (c) 2015 Josef Ziegler
   

@@ -1,5 +1,5 @@
 /* 
-   Longest (strictly) Increasing Subsequence O(n log n).
+   Longest (strictly) Increasing Subsequence (LIS), O(n log n).
 
    Using a binary search approach.
 
