@@ -1,5 +1,5 @@
 /*
-  Longest Common Subsequence.
+  Longest Common Subsequence (LCS).
 
   (c) 2015 Josef Ziegler
 

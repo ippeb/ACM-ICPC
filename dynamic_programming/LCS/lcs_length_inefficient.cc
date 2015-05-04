@@ -1,5 +1,5 @@
 /*
-  Longest Common Subsequence Length (inefficient).
+  Longest Common Subsequence Length (LCS), (inefficient).
 
   Very inefficient, recursive LCS, O(2^n).
 

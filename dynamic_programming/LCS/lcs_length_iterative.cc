@@ -1,5 +1,5 @@
 /*
-  Longest Common Subsequence Length (iterative).
+  Longest Common Subsequence Length (LCS), (iterative).
 
   Bottom up, iterative, very efficient, O(n^2).
   This is iterative (because it uses nested loops instead of recursion) or 

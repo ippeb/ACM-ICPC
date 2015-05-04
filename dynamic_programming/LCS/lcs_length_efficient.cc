@@ -1,5 +1,5 @@
 /*
-  Longest Common Subsequence Length (efficient).
+  Longest Common Subsequence Length (LCS), (efficient).
 
   O(n^2) using memoization.
 
