@@ -7,7 +7,7 @@
   m:= length of the pattern (m<=n).
   
   Key idea: provided the values b[0],...,b[i] (entry b[i] contains the width 
-  of the widest border of the prefix of length i of the pattern (i=0..m), are 
+  of the widest border of the prefix of length i+1 of the pattern (i=0..m), are 
   already known, the value of b[i+1] is computed by checking if aborder of the 
   prefix p0...pi-1 can be extended by symbol pi.
 
