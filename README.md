@@ -5,7 +5,9 @@ List of basic algorithms and data structures for algorithmic programming competi
 
 In the past, this list has been quite useful for solving algorithmic programming challenges on online judges like the Sphere Online Judge (SPOJ) and competitions.
 
-Most of this has been coded during high-school (2008-2010) while preparing for the IOI. Consider this a disclaimer about the coding style. I will try to improve the code whenever I have some free time. Bullet-points that are not highlighted below have not been added yet. If you see any errors or would like to make some improvements, please feel free to set an issue, or even better, make a pull request.
+Most of this has been coded during high-school (2008-2010) while preparing for the IOI. Consider this a disclaimer about the coding style. I will try to improve the code whenever I have some free time. Bullet-points that are not highlighted below have not been added yet.
+
+If you see any errors or would like to make some improvements, please feel free to set an issue, or even better, make a pull request.
 
 The code is licensed under the MIT License, free to use, have fun!
 
