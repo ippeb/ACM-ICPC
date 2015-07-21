@@ -16,13 +16,3 @@ int gcd(int a, int b){
 int lcm(int a, int b){
   return (a*b) / gcd(a,b);
 }
-
-int main(){
-  int a, b;
-  while (1){
-    scanf("%d",&a);
-    scanf("%d",&b);
-    printf("gcd(%d,%d)=%d\n",a,b,gcd(a,b));
-    printf("lcd(%d,%d)=%d\n",a,b,lcm(a,b));
-  }
-}
